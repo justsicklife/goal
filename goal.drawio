@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-27T21:52:13.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="bd-JMnGWALPyxEFvNKOb" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-04T10:42:29.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="WFJZv9o5Gmq8mWrgc4OM" version="15.0.6" type="github">
   <diagram id="SMwGUEMnSgFnPFMBGkIa" name="Page-1">
-    <mxGraphModel dx="2500" dy="3234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="3100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,14 +178,20 @@
         <mxCell id="18RsudGsqTFJ1O7Z_rHa-2" value="&lt;font style=&quot;font-size: 26px&quot;&gt;사람들과 소통하며 도전적인 프로젝트를 하면&amp;nbsp;&lt;br&gt;얼마나 재밌겠나?&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="144" y="-1290" width="540" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="iyAlKs3Y1mDKhOXzKE1F-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BDkJNnGbewyETewIVnR9-1" target="iyAlKs3Y1mDKhOXzKE1F-1">
+        <mxCell id="iyAlKs3Y1mDKhOXzKE1F-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BDkJNnGbewyETewIVnR9-1" target="iyAlKs3Y1mDKhOXzKE1F-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BDkJNnGbewyETewIVnR9-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;내가 그리워 하는것은 소속감이다.&amp;nbsp;&lt;br&gt;어딘가에 소속되고 싶다.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="221.5" y="-1420" width="385" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iyAlKs3Y1mDKhOXzKE1F-1" value="&lt;font style=&quot;font-size: 19px&quot;&gt;너의 지긋지긋한 목표를 긴시간동안 해결하지 못한&lt;br&gt;그 우울함 이제 극복하자.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hxvZ0k3XdWp_UTW1Nmu8-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iyAlKs3Y1mDKhOXzKE1F-1" target="hxvZ0k3XdWp_UTW1Nmu8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iyAlKs3Y1mDKhOXzKE1F-1" value="&lt;font style=&quot;font-size: 19px&quot;&gt;너의 지긋지긋한 목표를 긴시간동안 해결하지 못한&lt;br&gt;그 우울함 이제 극복하자.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="171" y="-1550" width="486" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hxvZ0k3XdWp_UTW1Nmu8-3" value="&lt;font style=&quot;font-size: 17px&quot;&gt;너가 목표한 일을 하면서 돈을 버는것은 얼마나 아름답겠는가&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="-1670" width="486" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
